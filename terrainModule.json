@@ -1,0 +1,47 @@
+{
+  "$type": "LibNoise.TerrainModule, WarWorldInfServer",
+  "module": {
+    "$type": "LibNoise.Modifiers.Select, WarWorldInfServer",
+    "mEdgeFalloff": 0.5,
+    "ControlModule": {
+      "$type": "LibNoise.Perlin, WarWorldInfServer",
+      "Frequency": 0.1,
+      "Persistence": 0.25,
+      "NoiseQuality": 1,
+      "Seed": 1,
+      "Lacunarity": 2.0,
+      "OctaveCount": 6
+    },
+    "SourceModule1": {
+      "$type": "LibNoise.Modifiers.ScaleBiasOutput, WarWorldInfServer",
+      "Scale": 1.5,
+      "Bias": 0.0,
+      "SourceModule": {
+        "$type": "LibNoise.RidgedMultifractal, WarWorldInfServer",
+        "Frequency": 0.5,
+        "NoiseQuality": 1,
+        "Seed": 1,
+        "Lacunarity": 2.0,
+        "OctaveCount": 6
+      }
+    },
+    "SourceModule2": {
+      "$type": "LibNoise.Modifiers.ScaleBiasOutput, WarWorldInfServer",
+      "Scale": 0.04,
+      "Bias": 0.0,
+      "SourceModule": {
+        "$type": "LibNoise.Billow, WarWorldInfServer",
+        "Frequency": 2.0,
+        "Persistence": 0.5,
+        "NoiseQuality": 1,
+        "Seed": 1,
+        "Lacunarity": 2.0,
+        "OctaveCount": 6
+      }
+    },
+    "UpperBound": 1000.0,
+    "LowerBound": 0.0,
+    "EdgeFalloff": 0.5
+  },
+  "seed": 1
+}

@@ -1,0 +1,131 @@
+{
+  "name": "terrain",
+  "preset": [
+    {
+      "isImage": false,
+      "color": {
+        "A": 255,
+        "R": 0,
+        "G": 0,
+        "B": 128
+      },
+      "imageFiles": [],
+      "images": [],
+      "time": 0.0
+    },
+    {
+      "isImage": false,
+      "color": {
+        "A": 255,
+        "R": 32,
+        "G": 64,
+        "B": 128
+      },
+      "imageFiles": [],
+      "images": [],
+      "time": 0.4
+    },
+    {
+      "isImage": false,
+      "color": {
+        "A": 255,
+        "R": 64,
+        "G": 96,
+        "B": 191
+      },
+      "imageFiles": [],
+      "images": [],
+      "time": 0.48
+    },
+    {
+      "isImage": true,
+      "color": {
+        "A": 0,
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "imageFiles": [
+        "terrainTextures/sand.png"
+      ],
+      "images": [],
+      "time": 0.5
+    },
+    {
+      "isImage": true,
+      "color": {
+        "A": 0,
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "imageFiles": [
+        "terrainTextures/trees1.png",
+        "terrainTextures/trees2.png"
+      ],
+      "images": [],
+      "time": 0.52
+    },
+    {
+      "isImage": true,
+      "color": {
+        "A": 0,
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "imageFiles": [
+        "terrainTextures/grass1.png",
+        "terrainTextures/trees2.png"
+      ],
+      "images": [],
+      "time": 0.55
+    },
+    {
+      "isImage": true,
+      "color": {
+        "A": 0,
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "imageFiles": [
+        "terrainTextures/grass1.png",
+        "terrainTextures/grass2.png",
+        "terrainTextures/trees2.png"
+      ],
+      "images": [],
+      "time": 0.6
+    },
+    {
+      "isImage": true,
+      "color": {
+        "A": 0,
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "imageFiles": [
+        "terrainTextures/grass1.png",
+        "terrainTextures/grass2.png"
+      ],
+      "images": [],
+      "time": 0.9
+    },
+    {
+      "isImage": true,
+      "color": {
+        "A": 0,
+        "R": 0,
+        "G": 0,
+        "B": 0
+      },
+      "imageFiles": [
+        "terrainTextures/grass1.png",
+        "terrainTextures/grass2.png"
+      ],
+      "images": [],
+      "time": 1.0
+    }
+  ]
+}
