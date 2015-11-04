@@ -1,3 +1,0 @@
-> create test
-[21:25:17 WARNING]: Loading world "test" as it already exists.
-[21:25:17 ERROR]: GeneralWorker queue: Could not find file "/home/nug700/WarWorldInfinityServer/Worlds/test/WorldSave.json".
