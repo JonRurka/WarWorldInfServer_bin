@@ -1,0 +1,9 @@
+{
+  "$type": "LibNoise.Perlin, Libnoise",
+  "Frequency": 1.0,
+  "Persistence": 0.5,
+  "NoiseQuality": 1,
+  "Seed": 0,
+  "Lacunarity": 2.0,
+  "OctaveCount": 16
+}

@@ -1,0 +1,16 @@
+[20:55:50]: War World Infinity Server Version 0.0.1-dev
+[20:55:50]: seperator: /
+[20:55:50]: isMono: True
+> 111;1R
+[20:55:53 ERROR]: Command not found: 111;1R
+> create test
+[20:56:44]: terrain generated.
+[20:56:44 ERROR]: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <filename unknown>:0 
+  at System.Collections.Generic.List`1[System.Drawing.Color[]].get_Item (Int32 index) [0x00000] in <filename unknown>:0 
+  at LibNoise.GradientKey.GetPixel (Int32 index, Int32 x, Int32 y) [0x00000] in <filename unknown>:0 
+  at LibNoise.Gradient.Evaluate (Int32 locX, Int32 locY, Single time) [0x00000] in <filename unknown>:0 
+  at LibNoise.Noise2D.GetTexture (LibNoise.Gradient gradient) [0x00000] in <filename unknown>:0 
+  at WarWorldInfServer.TerrainBuilder.Generate (IModule module, System.String preset) [0x00000] in <filename unknown>:0 
+  at WarWorldInfServer.World.CreateNewWorld (System.String worldName) [0x00000] in <filename unknown>:0 

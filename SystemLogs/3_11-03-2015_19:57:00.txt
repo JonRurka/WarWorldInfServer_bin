@@ -1,0 +1,6 @@
+[19:56:59]: War World Infinity Server Version 0.0.1-dev
+[19:56:59]: seperator: /
+[19:56:59]: isMono: True
+> 616;1R
+[19:57:30 ERROR]: Command not found: 616;1R
+> 

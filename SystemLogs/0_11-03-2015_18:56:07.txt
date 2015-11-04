@@ -1,0 +1,13 @@
+[18:56:07]: War World Infinity Server Version 0.0.1-dev
+[18:56:07]: seperator: /
+[18:56:07]: isMono: True
+[18:56:07 ERROR]: MySql.Data.MySqlClient.MySqlException: Authentication to host 'localhost' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO)
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed (System.Exception ex) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate (Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Authenticate (System.String authMethod, Boolean reset) [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.NativeDriver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Open () [0x00000] in <filename unknown>:0 
+  at MySql.Data.MySqlClient.Driver.Create (MySql.Data.MySqlClient.MySqlConnectionStringBuilder settings) [0x00000] in <filename unknown>:0 
+> mysql
+[19:05:48 ERROR]: Command not found: mysql

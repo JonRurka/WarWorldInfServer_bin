@@ -1,0 +1,26 @@
+> create test
+[21:28:59]: terrain generated.
+[21:29:01]: bitmap generated.
+[21:29:01]: Bitmap saved.
+[21:29:01]: 0 users saved.
+[21:29:01]: World "test" created.
+[21:29:01]: Game Timer Initialized.
+[21:29:01]: World "test" started.
+[21:30:01]: 0 users saved.
+[21:30:01]: World "test" saved.
+[21:31:01]: 0 users saved.
+[21:31:01]: World "test" saved.
+[21:32:01]: 0 users saved.
+[21:32:01]: World "test" saved.
+[21:33:01]: 0 users saved.
+[21:33:01]: World "test" saved.
+[21:34:01]: 0 users saved.
+[21:34:01]: World "test" saved.
+[21:35:01]: 0 users saved.
+[21:35:01]: World "test" saved.
+[21:36:01]: 0 users saved.
+[21:36:01]: World "test" saved.
+[21:37:01]: 0 users saved.
+[21:37:01]: World "test" saved.
+[21:38:01]: 0 users saved.
+[21:38:01]: World "test" saved.

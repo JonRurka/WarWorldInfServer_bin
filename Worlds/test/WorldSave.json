@@ -1,0 +1,20 @@
+{
+  "version": "0.0.1-dev",
+  "time": {
+    "seconds": 563,
+    "minutes": 9,
+    "hours": 0,
+    "days": 0,
+    "tick": 0,
+    "secondsInTicks": 563,
+    "maxSecondsInTicks": 3600
+  },
+  "terrain": {
+    "width": 1400,
+    "height": 880,
+    "seed": 0,
+    "preset": "terrain",
+    "imageFile": "/home/nug700/WarWorldInfinityServer/Worlds/test/map.bmp",
+    "moduleFile": "/home/nug700/WarWorldInfinityServer/Worlds/test/module.json"
+  }
+}
