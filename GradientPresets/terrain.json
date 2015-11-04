@@ -46,7 +46,7 @@
         "B": 0
       },
       "imageFiles": [
-        "terrainTextures/sand.png"
+        "sand.png"
       ],
       "images": [],
       "time": 0.5
@@ -60,8 +60,8 @@
         "B": 0
       },
       "imageFiles": [
-        "terrainTextures/trees1.png",
-        "terrainTextures/trees2.png"
+        "trees1.png",
+        "trees2.png"
       ],
       "images": [],
       "time": 0.52
@@ -75,8 +75,8 @@
         "B": 0
       },
       "imageFiles": [
-        "terrainTextures/grass1.png",
-        "terrainTextures/trees2.png"
+        "grass1.png",
+        "trees2.png"
       ],
       "images": [],
       "time": 0.55
@@ -90,9 +90,9 @@
         "B": 0
       },
       "imageFiles": [
-        "terrainTextures/grass1.png",
-        "terrainTextures/grass2.png",
-        "terrainTextures/trees2.png"
+        "grass1.png",
+        "grass2.png",
+        "trees2.png"
       ],
       "images": [],
       "time": 0.6
@@ -106,8 +106,8 @@
         "B": 0
       },
       "imageFiles": [
-        "terrainTextures/grass1.png",
-        "terrainTextures/grass2.png"
+        "grass1.png",
+        "grass2.png"
       ],
       "images": [],
       "time": 0.9
@@ -121,8 +121,8 @@
         "B": 0
       },
       "imageFiles": [
-        "terrainTextures/grass1.png",
-        "terrainTextures/grass2.png"
+        "grass1.png",
+        "grass2.png"
       ],
       "images": [],
       "time": 1.0
